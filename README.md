@@ -109,7 +109,3 @@ License:
 
 This project is for educational purposes.
 
-
-What level do you want — normal student README or professional portfolio README?
-
-Is this conversation helpful so far?
